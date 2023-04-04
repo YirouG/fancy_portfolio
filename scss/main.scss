@@ -122,7 +122,8 @@ main {
   img {
     width: 100%;
     border: 3px #fff solid;
-
+    height:20vh;
+    
     &:hover {
       opacity: 0.5;
       border-color: $secondary-color;
