@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage":"https://yiroug.github.io/fancy_portfolio",
+  "homepage": "https://yiroug.github.io/fancy_portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css --recursive",
-    "deploy":"gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "author": "",
   "license": "ISC",
